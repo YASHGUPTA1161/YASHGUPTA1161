@@ -1,70 +1,32 @@
-<h5 align="left">Hi 👋! My name is Yash, and I'm a Full-Stack Developer & AI/ML Enthusiast from Manav Rachna International Institute of Research and Studies, graduating in June 2025.  <br><br>💡 Passionate about building scalable web applications, AI-driven solutions, and automation tools.  <br>🚀 Skilled in MERN Stack, Python, Flask, FastAPI, AI/ML, and Cloud Technologies.  <br>🔍 Always eager to explore new technologies, DevOps, and blockchain development.</h5>
+<h1 align="center">Hi 👋, I'm Yash</h1>
+<h3 align="center">Passionate Software Developer skilled in full-stack web development, AI, and machine learning. Experienced in building intelligent systems, automation, and scalable applications. 🚀</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta1161&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta1161" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YASHGUPTA1161&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YASHGUPTA1161&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 🔭 I’m currently working on **Shopping Assistant Chatbot**
 
-###
+- 🌱 I’m currently learning **LLaMA fine-tuning, QLoRA, Ollama, Hugging Face deployment, and advanced backend development**
 
-<br clear="both">
+- 👯 I’m looking to collaborate on **AI and Web Development Projects**
 
-###
+- 🤝 I’m looking for help with **Fine-tuning LLaMA for E-commerce Chatbot**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+- 👨‍💻 All of my projects are available at [https://yashgupta1161.github.io/portfolio/](https://yashgupta1161.github.io/portfolio/)
 
-###
+- 💬 Ask me about **React, Vue, GSAP, AI, Machine Learning, Deep Learning, and Web Development**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-</div>
+- 📫 How to reach me **yashguptayg1161@gmail.com**
 
-###
+- 📄 Know about my experiences [https://storage.googleapis.com/simplify-resumes/b6a81e27-8df4-4edf-aba6-9522430b101a/d3fdf671-cfb9-4efa-b26a-55dadd054a59/1739093410.pdf?Expires=1741844634&GoogleAccessId=gcs-signing-service-account%40mifflin-backend.iam.gserviceaccount.com&Signature=uKjfFjYBqBqyQFefsN7r63qNN8%2FQEeqfzO4NkGMwFseQIrR%2FtyVIk3C0m2Bh7r1xc%2BJEnH%2Bu0dxyV15tKy%2Bz9s4KIlQqFcA%2B%2BHbu8djvmVKdjWMmA84FcVAnNB1HRmIXGbbTMOW3e8M4HQZJP9rEP5M89AjXSm5Y13YhZ94e93Hcwf5iSlnG2zaLHRgI8LDj2Gu2Z3OYf6sXycaCYBZ4BbtrG%2BK1SLuhjF7mHwADdCqZmUl73prwggBR6Wi1Vcrq%2FvGRsTfiNXJcD%2BiCb4ciy3BRN7eCN0Hju967Wn5NkRuxIvfvLFl87uES1qbJ5ZrwzavHbWCanuLgwIt5%2BWSvjg%3D%3D](https://storage.googleapis.com/simplify-resumes/b6a81e27-8df4-4edf-aba6-9522430b101a/d3fdf671-cfb9-4efa-b26a-55dadd054a59/1739093410.pdf?Expires=1741844634&GoogleAccessId=gcs-signing-service-account%40mifflin-backend.iam.gserviceaccount.com&Signature=uKjfFjYBqBqyQFefsN7r63qNN8%2FQEeqfzO4NkGMwFseQIrR%2FtyVIk3C0m2Bh7r1xc%2BJEnH%2Bu0dxyV15tKy%2Bz9s4KIlQqFcA%2B%2BHbu8djvmVKdjWMmA84FcVAnNB1HRmIXGbbTMOW3e8M4HQZJP9rEP5M89AjXSm5Y13YhZ94e93Hcwf5iSlnG2zaLHRgI8LDj2Gu2Z3OYf6sXycaCYBZ4BbtrG%2BK1SLuhjF7mHwADdCqZmUl73prwggBR6Wi1Vcrq%2FvGRsTfiNXJcD%2BiCb4ciy3BRN7eCN0Hju967Wn5NkRuxIvfvLFl87uES1qbJ5ZrwzavHbWCanuLgwIt5%2BWSvjg%3D%3D)
 
-<div align="left">
-  <a href="https://www.instagram.com/yashyg1502/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="buttermuffin3220" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:yashguptayg1161@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yash-gupta-499728239/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-gupta-499728239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-gupta-499728239/" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<br clear="both">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgupta1161&show_icons=true&locale=en&layout=compact" alt="yashgupta1161" /></p>
 
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgupta1161&" alt="yashgupta1161" /></p>
