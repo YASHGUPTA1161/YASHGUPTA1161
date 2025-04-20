@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **yashguptayg1161@gmail.com**
 
-- 📄 Know about my experiences [https://storage.googleapis.com/simplify-resumes/b6a81e27-8df4-4edf-aba6-9522430b101a/d3fdf671-cfb9-4efa-b26a-55dadd054a59/1739093410.pdf?Expires=1741844634&GoogleAccessId=gcs-signing-service-account%40mifflin-backend.iam.gserviceaccount.com&Signature=uKjfFjYBqBqyQFefsN7r63qNN8%2FQEeqfzO4NkGMwFseQIrR%2FtyVIk3C0m2Bh7r1xc%2BJEnH%2Bu0dxyV15tKy%2Bz9s4KIlQqFcA%2B%2BHbu8djvmVKdjWMmA84FcVAnNB1HRmIXGbbTMOW3e8M4HQZJP9rEP5M89AjXSm5Y13YhZ94e93Hcwf5iSlnG2zaLHRgI8LDj2Gu2Z3OYf6sXycaCYBZ4BbtrG%2BK1SLuhjF7mHwADdCqZmUl73prwggBR6Wi1Vcrq%2FvGRsTfiNXJcD%2BiCb4ciy3BRN7eCN0Hju967Wn5NkRuxIvfvLFl87uES1qbJ5ZrwzavHbWCanuLgwIt5%2BWSvjg%3D%3D](https://storage.googleapis.com/simplify-resumes/b6a81e27-8df4-4edf-aba6-9522430b101a/d3fdf671-cfb9-4efa-b26a-55dadd054a59/1739093410.pdf?Expires=1741844634&GoogleAccessId=gcs-signing-service-account%40mifflin-backend.iam.gserviceaccount.com&Signature=uKjfFjYBqBqyQFefsN7r63qNN8%2FQEeqfzO4NkGMwFseQIrR%2FtyVIk3C0m2Bh7r1xc%2BJEnH%2Bu0dxyV15tKy%2Bz9s4KIlQqFcA%2B%2BHbu8djvmVKdjWMmA84FcVAnNB1HRmIXGbbTMOW3e8M4HQZJP9rEP5M89AjXSm5Y13YhZ94e93Hcwf5iSlnG2zaLHRgI8LDj2Gu2Z3OYf6sXycaCYBZ4BbtrG%2BK1SLuhjF7mHwADdCqZmUl73prwggBR6Wi1Vcrq%2FvGRsTfiNXJcD%2BiCb4ciy3BRN7eCN0Hju967Wn5NkRuxIvfvLFl87uES1qbJ5ZrwzavHbWCanuLgwIt5%2BWSvjg%3D%3D)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
