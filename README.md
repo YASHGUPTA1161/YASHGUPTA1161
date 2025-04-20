@@ -13,6 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [https://yashgupta1161.github.io/portfolio/](https://yashgupta1161.github.io/portfolio/)
 
+- Here is my website https://type.link/yashguptayg1161
+
 - 💬 Ask me about **React, Vue, GSAP, AI, Machine Learning, Deep Learning, and Web Development**
 
 - 📫 How to reach me **yashguptayg1161@gmail.com**
